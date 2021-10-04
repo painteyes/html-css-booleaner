@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.logo{
+    background-image: url("../img/pattern.png");
+    background-color: cornflowerblue;
+}
+
+#suggeriti-1{
+    background-image: url("../img/monitor.jpg");
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    color: white;
+}
+
+#suggeriti-2{
+    background-image: url("../img/graph.jpg");
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    color: white;
+}
