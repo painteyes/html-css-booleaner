@@ -7,6 +7,43 @@
 .logo{
     background-image: url("../img/pattern.png");
     background-color: cornflowerblue;
+    background-size: 500px  ;
+}
+
+.logo img{
+    width: 300px;
+    margin-top: 50px;
+    
+}
+
+.data-and-author{
+    color: gray;
+    font-weight: 500;
+}
+
+#author-name{
+    color: rgb(64, 173, 224);
+}
+
+#date{
+    font-size: 12px;
+}
+
+#img-source{
+    font-size: 10px;
+}
+
+.container{
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+#highlited-text{
+    background-color: yellow;
+}
+
+.container ul{
+    margin-left: 20px;
 }
 
 #suggeriti-1{
